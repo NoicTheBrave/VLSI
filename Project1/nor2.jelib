@@ -3,10 +3,12 @@ Hnor2|9.07
 
 # Views:
 Vlayout|lay
+Vnetlist.als|net.als
 Vschematic|sch
+VVHDL|vhdl
 
 # Cell NOR;1{lay}
-CNOR;1{lay}||mocmos|1709598235144|1709603437574||DRC_last_good_drc_area_date()G1709603444445|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1709603444445
+CNOR;1{lay}||mocmos|1709598235144|1709605223020||DRC_last_good_drc_area_date()G1709604876099|DRC_last_good_drc_bit()I18|DRC_last_good_drc_date()G1709604876099
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NMetal-1-N-Active-Con|contact@6||-19|-4||5||
 NMetal-1-N-Active-Con|contact@7||-7|-4||5||
@@ -56,60 +58,76 @@ AMetal-1|net@32||-1|S|contact@16||18|3|contact@17||18|3
 AMetal-1|net@34||1|S900|contact@10||1|27|pin@8||1|15
 AMetal-1|net@35||1|S900|pin@8||1|15|pin@2||1|11
 AMetal-1|net@36||1|S0|contact@18||18|15|pin@8||1|15
-EA||D5G2;|contact@16||U
+EB|A|D5G2;|contact@11||U
 EAorB||D5G2;|contact@18||U
-EB||D5G2;|contact@11||U
+EA|B|D5G2;|contact@16||U
 Egnd||D5G2;|substr@0||U
 Evdd||D5G2;|well@0||U
 X
 
-# Cell NOR;1{sch}
-CNOR;1{sch}||schematic|1708146463792|1709597979502|
+# Cell NOR;1{net.als}
+CNOR;1{net.als}||artwork|1709611741437|1709613400987||FACET_message()S[#*************************************************,#  ALS Netlist file,#,"#  File Creation:    Mon Mar 04, 2024 22:36:40",#-------------------------------------------------,"","model NOR(A, AorB, B)",gnd_0: ground(gnd),"nmos_1: nMOStran(B, gnd, AorB)","nmos_2: nMOStran(A, AorB, gnd)","pmos_1: PMOStran(B, AorB, net_112)","pmos_2: PMOStran(A, net_112, vdd)",pwr_1: power(vdd),set power = H@3,"",#********* End of netlist *******************,"",# Built-in model for power,gate power(p),set p=H@3,t: delta=0,"",# Built-in model for PMOStran,"function PMOStran(g, a1, a2)","i: g, a1, a2","o: a1, a2",t: delta=1e-8,"",# Built-in model for nMOStran,"function nMOStran(g, a1, a2)","i: g, a1, a2","o: a1, a2",t: delta=1e-8,"",# Built-in model for ground,gate ground(g),set g=L@3,t: delta=0]
 Ngeneric:Facet-Center|art@0||0|0||||AV
-NOff-Page|conn@0||-20|11||||
+X
+
+# Cell NOR;1{sch}
+CNOR;1{sch}||schematic|1708146463792|1709615976683|
+Ngeneric:Facet-Center|art@0||0|0||||AV
+NOff-Page|conn@0||-23|12|||RR|
 NOff-Page|conn@1||-17|-1||||
 NOff-Page|conn@2||13|1||||
 NGround|gnd@0||-3|-11||||
 NTransistor|nmos@1||-10|-5|||R||ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SNMOS
-NWire_Pin|pin@51||1|-9||||
+NTransistor|nmos@2||1|-5|||RRR||ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SNMOS
 NWire_Pin|pin@52||-8|-9||||
-NWire_Pin|pin@53||-3|-3||||
-NWire_Pin|pin@54||-3|1||||
-NWire_Pin|pin@55||-6|-1||||
-NWire_Pin|pin@56||-6|11||||
-NWire_Pin|pin@61||0|-9||||
-NWire_Pin|pin@62||6|-5||||
-NWire_Pin|pin@63||6|8||||
-NWire_Pin|pin@64||-8|8||||
-NWire_Pin|pin@65||-8|11||||
-Ngeneric:Invisible-Pin|pin@66||-14|19|||||SIM_spice_card(D5G1;)Svdd vdd 0 DC 5
-NTransistor|pmos@0||-5|12|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
-NTransistor|pmos@1||-5|5|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
-NTransistor|pmos@2||2|-5|||XR|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S2
-NPower|pwr@1||-3|18||||
-Awire|net@52|||2700|pmos@1|d|-3|7|pmos@0|s|-3|10
-Awire|net@53|||2700|pmos@0|d|-3|14|pwr@1||-3|18
-Awire|net@54|||1800|gnd@0||-3|-9|pin@51||1|-9
+NWire_Pin|pin@53||-2|-3||||
+NWire_Pin|pin@54||-2|1||||
+NWire_Pin|pin@55||-5|-1||||
+Ngeneric:Invisible-Pin|pin@66||-23|5|||||SIM_spice_card(D5G1;)S.measure tran tf trig v(AorB) val=4.5 fall=1 td=4ns targ v(AorB) val=0.5 fall=1
+NWire_Pin|pin@68||-1|-9||||
+NWire_Pin|pin@69||6|-5||||
+NWire_Pin|pin@70||6|9||||
+NWire_Pin|pin@73||-2|14||||
+NWire_Pin|pin@75||-1|7||||
+NWire_Pin|pin@76||-8|9||||
+NWire_Pin|pin@77||-8|12||||
+Ngeneric:Invisible-Pin|pin@78||-30|6|||||SIM_spice_card(D5G1;)Svb B 0 DC pwl 10n 0 20n 5 100n 5 110n 0
+Ngeneric:Invisible-Pin|pin@79||-35|8|||||SIM_spice_card(D5G1;)Svdd vdd 0 DC 5 
+Ngeneric:Invisible-Pin|pin@80||-22|7|||||SIM_spice_card(D5G1;)Sva A 0 DC pwl 10n 0 20n 5 50n 5 60n 0 90n 0 100n 5 140n 0 170n 0 180n 5
+Ngeneric:Invisible-Pin|pin@81||-23|4|||||SIM_spice_card(D5G1;)S.measure tran tr trig v(AorB) val=0.5 rise=1 td=4ns targ v(AorB) val=4.5 rise=1
+Ngeneric:Invisible-Pin|pin@82||-37|3|||||SIM_spice_card(D5G1;)S.tran 200n
+Ngeneric:Invisible-Pin|pin@83||-32|2|||||SIM_spice_card(D5G1;)S".include C:\\electric\\C5_models.txt"
+NTransistor|pmos@1||-4|5|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
+NTransistor|pmos@2||-3|12|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
+NPower|pwr@1||-2|18||||
 Awire|net@56|||0|gnd@0||-3|-9|pin@52||-8|-9
 Awire|net@57|||900|nmos@1|s|-8|-7|pin@52||-8|-9
-Awire|net@59|||1800|nmos@1|d|-8|-3|pin@53||-3|-3
-Awire|net@62|||900|pmos@1|s|-3|3|pin@54||-3|1
-Awire|net@63|||900|pin@54||-3|1|pin@53||-3|-3
-Awire|net@64|||1800|pin@54||-3|1|conn@2|a|11|1
+Awire|net@59|||1800|nmos@1|d|-8|-3|pin@53||-2|-3
+Awire|net@62|||900|pmos@1|s|-2|3|pin@54||-2|1
+Awire|net@63|||900|pin@54||-2|1|pin@53||-2|-3
+Awire|net@64|||1800|pin@54||-2|1|conn@2|a|11|1
 Awire|net@65|||3150|nmos@1|g|-11|-5|conn@1|y|-15|-1
-Awire|net@66|||1800|conn@1|y|-15|-1|pin@55||-6|-1
-Awire|net@67|||900|pmos@1|g|-6|5|pin@55||-6|-1
-Awire|net@68|||900|pmos@0|g|-6|12|pin@56||-6|11
-Awire|net@81|||900|pmos@2|s|0|-7|pin@61||0|-9
-Awire|net@82|||0|pin@51||1|-9|pin@61||0|-9
-Awire|net@83|||0|pmos@2|d|0|-3|pin@53||-3|-3
-Awire|net@85|||1800|pmos@2|g|3|-5|pin@62||6|-5
-Awire|net@86|||2700|pin@62||6|-5|pin@63||6|8
-Awire|net@87|||0|pin@63||6|8|pin@64||-8|8
-Awire|net@88|||1800|conn@0|a|-22|11|pin@65||-8|11
-Awire|net@89|||1800|pin@65||-8|11|pin@56||-6|11
-Awire|net@90|||2700|pin@64||-8|8|pin@65||-8|11
+Awire|net@66|||1800|conn@1|y|-15|-1|pin@55||-5|-1
+Awire|net@67|||900|pmos@1|g|-5|5|pin@55||-5|-1
+Awire|net@92|||1800|pin@53||-2|-3|nmos@2|s|-1|-3
+Awire|net@93|||1800|gnd@0||-3|-9|pin@68||-1|-9
+Awire|net@95|||900|nmos@2|d|-1|-7|pin@68||-1|-9
+Awire|net@98|||1800|nmos@2|g|2|-5|pin@69||6|-5
+Awire|net@99|||2700|pin@69||6|-5|pin@70||6|9
+Awire|net@106|||0|pmos@2|d|-1|14|pin@73||-2|14
+Awire|net@107|||900|pwr@1||-2|18|pin@73||-2|14
+Awire|net@112|||900|pmos@2|s|-1|10|pin@75||-1|7
+Awire|net@113|||1800|pmos@1|d|-2|7|pin@75||-1|7
+Awire|net@114|||0|pin@70||6|9|pin@76||-8|9
+Awire|net@115|||2700|pin@76||-8|9|pin@77||-8|12
+Awire|net@116|||0|pin@77||-8|12|conn@0|a|-21|12
+Awire|net@117|||1800|conn@0|a|-21|12|pmos@2|g|-4|12
 EA||D5G2;|conn@0|a|U
 EA_or_B|AorB|D5G2;|conn@2|a|U
 EB||D5G2;|conn@1|a|U
+X
+
+# Cell NOR;1{vhdl}
+CNOR;1{vhdl}||artwork|1709611741434|1709611741437||FACET_message()S["-- VHDL automatically generated by the Electric VLSI Design System, version ",-- 9.07,"",-------------------- Cell NOR{sch} --------------------,"entity NOR_ is port(A, AorB, B: inout BIT);",  end NOR_;,"",architecture NOR__BODY of NOR_ is,  component ground port(gnd: out BIT);,    end component;,"  component nMOStran port(g: in BIT; s, d: inout BIT);",    end component;,"  component PMOStran port(g: in BIT; s, d: inout BIT);",    end component;,  component power port(vdd: out BIT);,    end component;,"","  signal gnd, net_112, vdd: BIT;","",begin,  gnd_0: ground port map(gnd);,"  nmos_1: nMOStran port map(B, gnd, AorB);","  nmos_2: nMOStran port map(A, AorB, gnd);","  pmos_1: PMOStran port map(B, AorB, net_112);","  pmos_2: PMOStran port map(A, net_112, vdd);",  pwr_1: power port map(vdd);,end NOR__BODY;]
+Ngeneric:Facet-Center|art@0||0|0||||AV
 X
