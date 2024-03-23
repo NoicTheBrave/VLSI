@@ -71,7 +71,7 @@ Ngeneric:Facet-Center|art@0||0|0||||AV
 X
 
 # Cell NOR;1{sch}
-CNOR;1{sch}||schematic|1708146463792|1709615976683|
+CNOR;1{sch}||schematic|1708146463792|1711144310216|
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NOff-Page|conn@0||-23|12|||RR|
 NOff-Page|conn@1||-17|-1||||
@@ -123,7 +123,7 @@ Awire|net@115|||2700|pin@76||-8|9|pin@77||-8|12
 Awire|net@116|||0|pin@77||-8|12|conn@0|a|-21|12
 Awire|net@117|||1800|conn@0|a|-21|12|pmos@2|g|-4|12
 EA||D5G2;|conn@0|a|U
-EA_or_B|AorB|D5G2;|conn@2|a|U
+EAorB_1|AorB|D5G2;|conn@2|y|O
 EB||D5G2;|conn@1|a|U
 X
 

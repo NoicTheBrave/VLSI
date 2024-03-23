@@ -1,0 +1,448 @@
+Electric Version 9.07
+--------------- 0 --------------
+  Fri Mar 22 15:51:50 CDT 2024
+Menu Activated: /C:/Users/nicpi/Documents/0_GradSchool/Y1-S2/VLSI/Project1/nor2.jelib
+--------------- 1 --------------
+  Fri Mar 22 15:52:48 CDT 2024
+Menu Activated: Export | Create Export...
+--------------- 2 --------------
+  Fri Mar 22 15:56:10 CDT 2024
+Menu Activated: File | Export | SVG...
+--------------- 3 --------------
+  Fri Mar 22 15:58:31 CDT 2024
+Menu Activated: File | Save Library As...
+--------------- 4 --------------
+  Fri Mar 22 15:58:53 CDT 2024
+Menu Activated: File | Export | PNG (Portable Network Graphics)...
+--------------- 5 --------------
+  Fri Mar 22 15:59:08 CDT 2024
+Menu Activated: File | Save Library As...
+--------------- 6 --------------
+  Fri Mar 22 16:00:49 CDT 2024
+Menu Activated: Export | Create Export...
+--------------- 7 --------------
+  Fri Mar 22 16:01:09 CDT 2024
+Menu Activated: Export | Show Exports
+--------------- 8 --------------
+  Fri Mar 22 16:01:13 CDT 2024
+ProcessKeyBinding 401 when=1711141273768 modifiers=80 code=11 char=ffff false false
+--------------- 9 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274291 modifiers=80 code=11 char=ffff false false
+--------------- 10 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274325 modifiers=80 code=11 char=ffff false false
+--------------- 11 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274357 modifiers=80 code=11 char=ffff false false
+--------------- 12 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274392 modifiers=80 code=11 char=ffff false false
+--------------- 13 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274425 modifiers=80 code=11 char=ffff false false
+--------------- 14 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274457 modifiers=80 code=11 char=ffff false false
+--------------- 15 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274494 modifiers=80 code=11 char=ffff false false
+--------------- 16 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274526 modifiers=80 code=11 char=ffff false false
+--------------- 17 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274561 modifiers=80 code=11 char=ffff false false
+--------------- 18 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274592 modifiers=80 code=11 char=ffff false false
+--------------- 19 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274626 modifiers=80 code=11 char=ffff false false
+--------------- 20 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274660 modifiers=80 code=11 char=ffff false false
+--------------- 21 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274693 modifiers=80 code=11 char=ffff false false
+--------------- 22 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274727 modifiers=80 code=11 char=ffff false false
+--------------- 23 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274761 modifiers=80 code=11 char=ffff false false
+--------------- 24 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274795 modifiers=80 code=11 char=ffff false false
+--------------- 25 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274828 modifiers=80 code=11 char=ffff false false
+--------------- 26 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274861 modifiers=80 code=11 char=ffff false false
+--------------- 27 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274894 modifiers=80 code=11 char=ffff false false
+--------------- 28 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274927 modifiers=80 code=11 char=ffff false false
+--------------- 29 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274961 modifiers=80 code=11 char=ffff false false
+--------------- 30 --------------
+  Fri Mar 22 16:01:14 CDT 2024
+ProcessKeyBinding 401 when=1711141274996 modifiers=80 code=11 char=ffff false false
+--------------- 31 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275030 modifiers=80 code=11 char=ffff false false
+--------------- 32 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275064 modifiers=80 code=11 char=ffff false false
+--------------- 33 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275096 modifiers=80 code=11 char=ffff false false
+--------------- 34 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275130 modifiers=80 code=11 char=ffff false false
+--------------- 35 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275162 modifiers=80 code=11 char=ffff false false
+--------------- 36 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275196 modifiers=80 code=11 char=ffff false false
+--------------- 37 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275230 modifiers=80 code=11 char=ffff false false
+--------------- 38 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275265 modifiers=80 code=11 char=ffff false false
+--------------- 39 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 401 when=1711141275298 modifiers=80 code=11 char=ffff false false
+--------------- 40 --------------
+  Fri Mar 22 16:01:15 CDT 2024
+ProcessKeyBinding 402 when=1711141275330 modifiers=0 code=11 char=ffff false false
+--------------- 41 --------------
+  Fri Mar 22 16:02:35 CDT 2024
+Menu Activated: Tools | DRC | Export DRC Deck...
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 42 --------------
+  Fri Mar 22 16:03:17 CDT 2024
+Menu Activated: Tools | Simulation (Verilog) | Write Verilog Deck...
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 43 --------------
+  Fri Mar 22 16:03:33 CDT 2024
+ProcessKeyBinding 402 when=1711141413069 modifiers=0 code=9a char=ffff false false
+--------------- 44 --------------
+  Fri Mar 22 16:05:29 CDT 2024
+Menu Activated: Tools | Simulation (Verilog) | Set Verilog Template
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 45 --------------
+  Fri Mar 22 16:05:33 CDT 2024
+ProcessKeyBinding 401 when=1711141533641 modifiers=80 code=11 char=ffff false false
+--------------- 46 --------------
+  Fri Mar 22 16:05:34 CDT 2024
+Menu Activated: Edit | Undo
+--------------- 47 --------------
+  Fri Mar 22 16:05:34 CDT 2024
+ProcessKeyBinding 400 when=1711141534151 modifiers=80 code=0 char=1a false false
+--------------- 48 --------------
+  Fri Mar 22 16:05:34 CDT 2024
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    Attribute 'verilog_template' of cell 'NOR{sch}'
+--------------- 49 --------------
+  Fri Mar 22 16:05:34 CDT 2024
+ProcessKeyBinding 400 when=1711141534714 modifiers=80 code=0 char=1a false false
+--------------- 50 --------------
+  Fri Mar 22 16:05:35 CDT 2024
+ProcessKeyBinding 402 when=1711141535028 modifiers=0 code=11 char=ffff false false
+--------------- 51 --------------
+  Fri Mar 22 16:05:41 CDT 2024
+Menu Activated: Tools | Simulation (Verilog) | Set Verilog Template
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 52 --------------
+  Fri Mar 22 16:05:41 CDT 2024
+ProcessKeyBinding 401 when=1711141541980 modifiers=80 code=11 char=ffff false false
+--------------- 53 --------------
+  Fri Mar 22 16:05:42 CDT 2024
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    Attribute 'verilog_template' of cell 'NOR{sch}'
+--------------- 54 --------------
+  Fri Mar 22 16:05:42 CDT 2024
+ProcessKeyBinding 400 when=1711141542179 modifiers=80 code=0 char=1a false false
+--------------- 55 --------------
+  Fri Mar 22 16:05:42 CDT 2024
+ProcessKeyBinding 402 when=1711141542420 modifiers=0 code=11 char=ffff false false
+--------------- 56 --------------
+  Fri Mar 22 16:05:45 CDT 2024
+Menu Activated: Tools | Simulation (Verilog) | Set Verilog Default Parameter
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 57 --------------
+  Fri Mar 22 16:05:45 CDT 2024
+ProcessKeyBinding 401 when=1711141545925 modifiers=80 code=11 char=ffff false false
+--------------- 58 --------------
+  Fri Mar 22 16:05:46 CDT 2024
+Menu Activated: Edit | Undo
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    Attribute 'verilog_defparam' of cell 'NOR{sch}'
+--------------- 59 --------------
+  Fri Mar 22 16:05:46 CDT 2024
+ProcessKeyBinding 400 when=1711141546290 modifiers=80 code=0 char=1a false false
+--------------- 60 --------------
+  Fri Mar 22 16:05:46 CDT 2024
+ProcessKeyBinding 402 when=1711141546649 modifiers=0 code=11 char=ffff false false
+--------------- 61 --------------
+  Fri Mar 22 16:05:57 CDT 2024
+Menu Activated: Tools | Simulation (Verilog) | Set Verilog Wire | Default
+Currently highlighted: 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': B
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': A
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.Highlight$Message in cell 'NOR{sch}': AorB
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+    com.sun.electric.tool.user.HighlightLine in cell 'NOR{sch}': 
+--------------- 62 --------------
+  Fri Mar 22 16:06:02 CDT 2024
+ProcessKeyBinding 401 when=1711141562882 modifiers=80 code=11 char=ffff false false
+--------------- 63 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563406 modifiers=80 code=11 char=ffff false false
+--------------- 64 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563439 modifiers=480 code=11 char=ffff false false
+--------------- 65 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563472 modifiers=480 code=11 char=ffff false false
+--------------- 66 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563505 modifiers=480 code=11 char=ffff false false
+--------------- 67 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563538 modifiers=80 code=11 char=ffff false false
+--------------- 68 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563572 modifiers=80 code=11 char=ffff false false
+--------------- 69 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563606 modifiers=80 code=11 char=ffff false false
+--------------- 70 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563641 modifiers=80 code=11 char=ffff false false
+--------------- 71 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563674 modifiers=80 code=11 char=ffff false false
+--------------- 72 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563708 modifiers=80 code=11 char=ffff false false
+--------------- 73 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563740 modifiers=80 code=11 char=ffff false false
+--------------- 74 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563773 modifiers=80 code=11 char=ffff false false
+--------------- 75 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563806 modifiers=80 code=11 char=ffff false false
+--------------- 76 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563840 modifiers=80 code=11 char=ffff false false
+--------------- 77 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563874 modifiers=80 code=11 char=ffff false false
+--------------- 78 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563908 modifiers=80 code=11 char=ffff false false
+--------------- 79 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563941 modifiers=80 code=11 char=ffff false false
+--------------- 80 --------------
+  Fri Mar 22 16:06:03 CDT 2024
+ProcessKeyBinding 401 when=1711141563975 modifiers=80 code=11 char=ffff false false
+--------------- 81 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564008 modifiers=80 code=11 char=ffff false false
+--------------- 82 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564041 modifiers=80 code=11 char=ffff false false
+--------------- 83 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564075 modifiers=80 code=11 char=ffff false false
+--------------- 84 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564108 modifiers=80 code=11 char=ffff false false
+--------------- 85 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564142 modifiers=80 code=11 char=ffff false false
+--------------- 86 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564176 modifiers=80 code=11 char=ffff false false
+--------------- 87 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564210 modifiers=80 code=11 char=ffff false false
+--------------- 88 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564243 modifiers=80 code=11 char=ffff false false
+--------------- 89 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=1711141564276 modifiers=80 code=11 char=ffff false false
+--------------- 90 --------------
+  Fri Mar 22 16:06:04 CDT 2024
+ProcessKeyBinding 401 when=

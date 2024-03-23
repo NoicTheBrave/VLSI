@@ -1,0 +1,13 @@
+FORCE the inputs to different states, and screen shot them in all of the states they need to be tested in to verify its functionality (just to show you did) 
+
+
+if you are feeling REALLY spicy, make a VHDL code to check a text file for bits for Input-Output values, have 2 seporate arrays made for the INPUTS and OUTPUTS (may need to refer back to that ONE VHDL project for more info to figure out how to get the values of the code... ) AND FRom THERE, you SHOULD be able to rip data from the text file line-by-line, setting inputs to what the text file says, and check the output(s) according to the very same text file. NOT sure where the text file came from... but ya know :P 
+
+****BY DOING THIS, THIS SHOULD BE HELPFUL FOR THE FUTURE REMAINING PROJECTS (assuming you need to verify its all working correctly @ all.... and they should need it)*****
+	- Verify this suspicion by checking and reading NEAR-in-full the other projects 
+	- By doing this, you would NOT need to manually set every value, and check the output on some PLOT, but rather run it once and call it good :) [and edit inputs, outputs, and "vectors'/truth tables accordingly {fair enough}])
+
+- NIC_ 3-22-2024 (@ 5:59PM) 
+
+From there, watch the OG video AGAIN, and see what I need to do to make Symbols (out of the transistor logic gates) AND verify the new OR one works (should I go ahead and make the NAND gate?) 
+
