@@ -12,3 +12,8 @@ WHile it looks pretty and what no, I do not think we did for that one VHDL proje
 Might want to back-up my VHDL project and test that for a later date. 
 
 - NIC_ 3/22/2024 (@ 5:26PM) 
+
+UPDATE: 
+The insturctions on page 5 for project 1 talk about this, you dumb ass (this is what I get for not reading the entire project's hand-out and just skipping to what I need to turn in (SMH) 
+
+- NIC_ 3/22/2024 (@ 9:53PM - I had like a 3.5 hr long break [dumbass])

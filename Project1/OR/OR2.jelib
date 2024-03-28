@@ -71,7 +71,7 @@ Ngeneric:Facet-Center|art@0||0|0||||AV
 X
 
 # Cell OR;1{sch}
-COR;1{sch}||schematic|1708146463792|1709892643383|
+COR;1{sch}||schematic|1708146463792|1711614021824|
 Ngeneric:Facet-Center|art@0||0|0||||AV
 NOff-Page|conn@0||-23|12|||RR|
 NOff-Page|conn@1||-17|-1||||
@@ -102,15 +102,12 @@ NWire_Pin|pin@85||14|0||||
 NWire_Pin|pin@86||14|6||||
 NWire_Pin|pin@87||20|15||||
 NWire_Pin|pin@88||-2|15||||
-NWire_Pin|pin@89||14|-5||||
-NWire_Pin|pin@90||18|-16||||
-NWire_Pin|pin@91||-1|-16||||
 NWire_Pin|pin@92||24|-7||||
 NWire_Pin|pin@93||24|0||||
 NWire_Pin|pin@94||24|3||||
 NWire_Pin|pin@95||20|3||||
-NWire_Pin|pin@96||14|-9||||
-NWire_Pin|pin@97||20|-16||||
+NWire_Pin|pin@98||14|-9||||
+NWire_Pin|pin@99||20|-15||||
 NTransistor|pmos@1||-4|5|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
 NTransistor|pmos@2||-3|12|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
 NTransistor|pmos@3||18|6|||R|2|ATTR_length(D5G0.5;X-0.5;Y-1;)S2|ATTR_width(D5G1;X0.5;Y-1;)S10|SIM_spice_model(D5G1;)SPMOS
@@ -142,21 +139,19 @@ Awire|net@127|||2700|pmos@3|d|20|8|pin@87||20|15
 Awire|net@128|||900|pwr@1||-2|18|pin@88||-2|15
 Awire|net@129|||900|pin@88||-2|15|pin@73||-2|14
 Awire|net@130|||1800|pin@88||-2|15|pin@87||20|15
-Awire|net@131|||900|pin@85||14|0|pin@89||14|-5
-Awire|net@134|||0|pin@90||18|-16|pin@91||-1|-16
-Awire|net@135|||900|pin@68||-1|-15|pin@91||-1|-16
 Awire|net@137|||2700|pin@92||24|-7|pin@93||24|0
 Awire|net@138|||1800|pin@93||24|0|conn@3|a|26|0
 Awire|net@139|||2700|pin@93||24|0|pin@94||24|3
 Awire|net@140|||0|pin@94||24|3|pin@95||20|3
 Awire|net@141|||900|pmos@3|s|20|4|pin@95||20|3
-Awire|net@142|||900|pin@89||14|-5|pin@96||14|-9
-Awire|net@143|||1800|pin@96||14|-9|nmos@4|g|17|-9
 Awire|net@144|||1800|nmos@4|d|20|-7|pin@92||24|-7
-Awire|net@145|||900|nmos@4|s|20|-11|pin@97||20|-16
-Awire|net@146|||1800|pin@90||18|-16|pin@97||20|-16
+Awire|net@147|||900|pin@85||14|0|pin@98||14|-9
+Awire|net@148|||0|nmos@4|g|17|-9|pin@98||14|-9
+Awire|net@149|||1800|pin@68||-1|-15|pin@99||20|-15
+Awire|net@150|||900|nmos@4|s|20|-11|pin@99||20|-15
 EA||D5G2;|conn@0|a|U
 EB||D5G2;|conn@1|a|U
+EC||D5G2;|conn@3|a|O
 X
 
 # Cell OR;1{vhdl}
