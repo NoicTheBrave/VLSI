@@ -1,0 +1,21 @@
+Currently, I do NOT have this process automated to test these things for this lab. Thus why, as outlined in this project, I am using the "FORCE" method on individual signals to update these things, HOWEVER, it should be noted that I SHOULD be able to make a script that can
+
+- read a text file that lists ALL possible states and what the output should be (Allows me to add and remove things as need be for verification) 
+- Run test cases and compare the outputs seen here w/ the "ideal" outputs & return if they matched or not (matching = good, aka, the circuit is working as expected)
+- repeat this process for a variety of different states. 
+
+
+but for now, since I am simply doing this for ONE logic gate, it's pretty simple
+
+
+But if I WERE to automate it, assuming it works how I think it does, then I would use SOME examples below: 
+
+
+* force -deposit sim:/{codeFileName}/{in/Out} (changeItsState: 0/1) 0
+ex: force -deposit sim:/OR/A 0 0   <---- changes input A from (whatever it was) to 0
+
+
+* run <-----Run's the command for (for testing purposes for how I have it currently configured for) 100ms (will show output on a "wave" plot in the ModelSIm software if the sim is RUNNING
+
+
+
