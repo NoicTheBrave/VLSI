@@ -1,0 +1,55 @@
+library ieee;
+use ieee.std_logic_1164.all;
+use ieee.numeric_std.all;
+
+entity orGateChecker_tb is
+end entity;
+
+architecture tb_arch of orGateChecker_tb is
+    signal A, B, gnd, vdd, C : std_logic;
+begin
+    -- Instantiate the DUT (Device Under Test)
+    DUT : entity work.OR_GATE
+        port map (
+            A => A,
+            B => B,
+            gnd => gnd,
+            vdd => vdd,
+            C => C
+        );
+
+    -- Stimulus process
+    --stimulus : process
+    stimulus_process: process
+    begin
+        A <= '0';
+        B <= '0';
+        gnd <= '0';
+        vdd <= '1';
+
+        -- Test cases
+        --wait for 10 ns;
+        A <= '0'; B <= '0'; wait for 10 ns;
+        assert C = ('0') report "Test case 00 failed." severity ERROR; --this SHOULD throw an error if this is not the case. Otherqise, Continue
+
+        A <= '0'; B <= '1'; wait for 10 ns;
+        assert C = ('1') report "Test case 01 failed." severity ERROR; 
+
+
+        A <= '1'; B <= '0';wait for 10 ns;
+        assert C = ('1') report "Test case 10 failed." severity ERROR; 
+	
+
+        A <= '1'; B <= '1';wait for 10 ns;
+        assert C = ('1') report "Test case 11 failed." severity ERROR; 
+	
+        
+        -- Finish simulation
+        assert false report "Simulation finished" severity failure; --just forces it to break 
+        wait;
+
+    --end process display_process;
+	report "End of file"; 
+	--severity ERROR; 
+    end process; 
+end architecture tb_arch;
